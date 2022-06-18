@@ -1,0 +1,12 @@
+<categorias>
+    <categoria idCategoria="1" nombreCategoria="Electronica" descripcionCategoria="Articulos Electronicos para el hogar"/>
+    <categoria idCategoria="2" nombreCategoria="Linea Blanca" descripcionCategoria="Articulos de Lína Blanca para el Hogar"/>
+    <categoria idCategoria="3" nombreCategoria="Papeleria" descripcionCategoria="Articulos para oficina y dibujantes"/>
+    <categoria idCategoria="4" nombreCategoria="Comida" descripcionCategoria="Insumos para preparacion de comida"/>
+    <categoria idCategoria="5" nombreCategoria="Deportes" descripcionCategoria="Articulos para deportes y accesorios"/>
+    <categoria idCategoria="6" nombreCategoria="Juguetes" descripcionCategoria="Juguetes infantiles"/>
+    <categoria idCategoria="7" nombreCategoria="Ropa" descripcionCategoria="Ropa, bolsas y calzado"/>
+    <categoria idCategoria="8" nombreCategoria="Celulares" descripcionCategoria="Celulares y todo lo relacionado"/>
+    <categoria idCategoria="9" nombreCategoria="Hogar" descripcionCategoria="Muebles y jardineria"/>
+    <categoria idCategoria="10" nombreCategoria="Salud" descripcionCategoria="Todo tipo de equipamiento medico y medicamentos"/>
+</categorias>
